@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class stdResult {
+public class StdResult {
     public static void main(String[] argu){
             Scanner myObj = new Scanner(System.in);
             System.out.println("Enter marks of SAD:");
