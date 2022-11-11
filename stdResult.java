@@ -1,3 +1,5 @@
+//program to find Total, percentage, and grade of marks....
+
 import java.util.Scanner;
 public class StdResult {
     public static void main(String[] argu){

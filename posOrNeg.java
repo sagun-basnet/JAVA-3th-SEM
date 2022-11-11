@@ -1,3 +1,5 @@
+//program to find if the given number is positive or not///
+
 import java.util.Scanner;
 class PosOrNeg{
     public static void main(String[] args){
