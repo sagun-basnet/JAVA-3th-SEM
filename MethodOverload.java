@@ -1,5 +1,5 @@
 
-//Example of method overload with construction.. 
+//Example of method overload with constructor.. 
 
 public class MethodOverload {
     MethodOverload(){
@@ -8,9 +8,9 @@ public class MethodOverload {
 
     //main method
     public static void main(String[] args){
-        add(12,34);//called with 2 parameters
-        add(12.5,34.6);//called with 2 parameters
-        add(12,34,4);//called with multiple parameter
+        add(12,34);//called with 2 parameters....
+        add(12.5,34.6);//called with 2 parameters but different data type..
+        add(12,34,4);//called with multiple parameter...
     }
 
     //for sum

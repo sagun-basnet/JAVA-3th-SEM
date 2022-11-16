@@ -1,4 +1,4 @@
-//program to find if the given number is positive or not///
+//program to find if the given number is positive or not
 
 import java.util.Scanner;
 class PosOrNeg{
