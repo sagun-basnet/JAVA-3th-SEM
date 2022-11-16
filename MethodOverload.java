@@ -3,7 +3,7 @@
 
 public class MethodOverload {
     MethodOverload(){
-        System.out.println("Construction called");
+        System.out.println("Constructor called");
     }
 
     //main method
